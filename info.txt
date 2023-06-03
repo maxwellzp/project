@@ -114,3 +114,11 @@ dev@dev-machine:/home/developer/go-microservices/project$
 
 mongodb://admin:password@localhost:27017/logs?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&directConnection=true&ssl=false
 
+dev@dev-machine:/home/developer/go-microservices/project$ go install google.golang.org/protobuf/cmd/protoc-gen-go@v1.27
+go: downloading google.golang.org/protobuf v1.27.1
+
+dev@dev-machine:/home/developer/go-microservices/project$ go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@v1.2
+go: downloading google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.2.0
+go: downloading google.golang.org/grpc v1.2.1
+dev@dev-machine:/home/developer/go-microservices/project$ 
+
